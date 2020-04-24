@@ -1,14 +1,12 @@
 ### Youtube Video Downloader 
 
 
-### Code Requirements
-- Youtube_dl library 
+### Requirements
+- Youtube_dl library pip install youtube_dl 
 - Tkinter(Avaialble in python)
 
-### Installation
-- pip install youtube_dl 
-- Copy my youtube.py
-- Run it
+### Run
+- python youtube.py
 
 ### Description
 It is just simple GUI which are made with Tkinter, it can download any of youtube video ,you need to just copy link of video and path where you want to save your file.
